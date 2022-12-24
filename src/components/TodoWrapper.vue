@@ -90,7 +90,7 @@ onMounted(() => {
       <div class="todo-header">
         <div class="title">TODO</div>
         <div class="theme-switcher">
-          <img class="light-theme-icon" src="@/assets/light-theme-icon.svg" alt="">
+          <!-- <img class="light-theme-icon" src="@/assets/light-theme-icon.svg" alt=""> -->
           <!-- <img class="light-theme-icon" src="@/assets/dark-theme-icon.svg" alt=""></img> -->
         </div>
       </div>
